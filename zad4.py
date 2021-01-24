@@ -17,7 +17,7 @@ for i in metoda_set:
 koniec = time.time()
 print("2. Czas trwania:", koniec - start, "s")
 
-#moje wyniki
-#1. Czas trwania: 0.11227202415466309 s
-#2. Czas trwania: 0.026093482971191406 s
-#wniosek metoda z wykorzystaniem set jest wyraźnie szybsza
+# moje wyniki
+# 1. Czas trwania: 0.06899714469909668 s
+# 2. Czas trwania: 0.03124380111694336 s
+# wniosek metoda z wykorzystaniem set jest wyraźnie szybsza
